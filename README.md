@@ -17,7 +17,7 @@ Aplikasi informasi dan layanan kampus terpadu untuk memudahkan mahasiswa dalam m
 1. Pastikan Flutter SDK sudah terinstal di perangkat Anda.
 2. Clone repository ini:
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone <https://github.com/dinfall13/Kampuskita>
    cd kampuskita
 
    # TaskMate Kampus
@@ -47,7 +47,6 @@ v0.1 - Navigation
 flutter run -d chrome
 
 ## Bukti Running
-Tambahkan screenshot atau link video singkat aplikasi berjalan.
+https://drive.google.com/drive/folders/1EiDQ8YvoBlR85x8bU1SHUV4RXKBwSI6Y?usp=sharing
 
 ## Catatan Penggunaan AI
-Tuliskan jika AI digunakan untuk debugging atau memahami error navigasi.
