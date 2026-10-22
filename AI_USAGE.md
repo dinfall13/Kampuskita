@@ -1,0 +1,1 @@
+#penggunaan AI nya bantuan untuk menggunakan git hub 
